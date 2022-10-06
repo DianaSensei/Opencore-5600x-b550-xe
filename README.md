@@ -13,9 +13,9 @@
 | Wifi & Bluetooth | Intel® Wi-Fi 6 AX200 |
 | OS Disk (SATA) | Samsung SSD 860 EVO 250GB |
 
-**macOS version**: 12.6
+**macOS version**: 13.10
 
-**OpenCore version**: 0.8.3
+**OpenCore version**: 0.8.4
 
 **SMBIOS**:  iMacPro1,1
 
